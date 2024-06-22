@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404147231743",
+    "project_id": "ff-proje-e7b5b",
+    "storage_bucket": "ff-proje-e7b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404147231743:android:7b65d65a73030103b365ca",
+        "android_client_info": {
+          "package_name": "com.example.ff_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIV0o3_gj1ZZ0-LShbdYGEB7wB9KZZQWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
